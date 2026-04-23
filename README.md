@@ -1,6 +1,6 @@
 # Netflix Movie Data Analysis 
 
-This is my first beginner-friendly data analysis project using Python. I cleaned, explored, and visualized Netflix movie data using libraries like Pandas, NumPy, Matplotlib, and Seaborn.
+This is my beginner-friendly data analysis project using Python. I cleaned, explored, and visualized Netflix movie data using libraries like Pandas, NumPy, Matplotlib, and Seaborn.
 
 ##  Dataset
 I used a dataset called `mymoviedb.csv`, which contains information about 9,800+ movies such as:
